@@ -9,4 +9,31 @@ h1
     padding: 30px;
     text-transform: uppercase;
     text-shadow: 2px 2px 4px black;
+    font-size: 60px;
+    color: white;
+}
+
+.dolt {
+    font-style: italic;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+.felirat {
+    font-size: 10px;
+    font-weight: bold;
+    color: #444;
+    text-align: center;
+}
+
+#jobb-oszlop {
+    background-color: #333;
+    color: white;
+}
+
+.keretes {
+    border: 6px solid black;
+    margin: 20px 0;
 }
